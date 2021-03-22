@@ -13,7 +13,7 @@ G = Generator, D = Discriminator, Pd (x) = distribution of real data, P(z) = dis
 x = sample from Pd (x), z = sample from P(z), D(x) = Discriminator network, G(z) = Generator network
 
 ## Datasets
-We executed our algorithm on the Oxford-102 flower dataset [Ref. 6]. For the Oxford-102 dataset, it has 102 classes, which contains 82 training classes and 20 test classes. Each of the images in the dataset has 10 corresponding text descriptions. We have used the DC-GAN architecture for training the model on this dataset and we have done twice, once for 100 epochs with one set of captions and another for 200 epochs with a different set of captions. 
+We executed our algorithm on the Oxford-102 flower dataset. For the Oxford-102 dataset, it has 102 classes, which contains 82 training classes and 20 test classes. Each of the images in the dataset has 10 corresponding text descriptions. We have used the DC-GAN architecture for training the model on this dataset and we have done twice, once for 100 epochs with one set of captions and another for 200 epochs with a different set of captions. 
 <br/>Source: [Oxford-102 flower dataset](https://www.robots.ox.ac.uk/~vgg/data/flowers/102/)
 
 ## Software Specs
