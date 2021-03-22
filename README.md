@@ -96,7 +96,7 @@ In this experiment, the same dataset has been trained for 100 epochs using a set
 ### 200 epochs with another set of captions.
 In this experiment the same dataset has been trained for 200 epochs using a set of captions(texts) as noted below and accordingly the following images are generated from them. Here each epoch took roughly 1hour of execution time and total 200 epochs took almost 10 days.
 #### Captions:
-the flower shown has purple and white petals
+* the flower shown has purple and white petals
 * this flower has petals that are yellow and purple and has dark lines
 * the petals on this flower are red with a yellow center
 * this flower has a lot of small round orange petals
