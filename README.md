@@ -120,3 +120,4 @@ In this experiment the same dataset has been trained for 200 epochs using a set 
 * [Tensor flow Implementation of Deep Convolutional Generative Adversarial Networks](https://www.tensorflow.org/tutorials/generative/dcgan)
 * Automated flower classification over a large number of classes, Nilsback, M-E. And Zisserman, A.; Proceedings of the Indian Conference on Computer Vision, Graphics and Image Processing (2008).
 * [DCGAN Torch Code](https://pytorch.org/tutorials/beginner/dcgan_faces_tutorial.html)
+* [Text to Image Synthesis Using Thought Vectors | Paarthneekhara](https://github.com/paarthneekhara/text-to-image)
